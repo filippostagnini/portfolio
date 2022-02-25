@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'Steinbeck Regular';
-    src: url(../FONTS/SteinbeckRegular\ 2.otf);
+    src: url(../fonts/SteinbeckRegular\ 2.otf);
 }
 @font-face {
     font-family: 'SuisseIntlLight';
-    src: url(../FONTS/SuisseIntlLight.otf);
+    src: url(../fonts/SuisseIntlLight.otf);
 }
 @font-face {
     font-family: 'SuisseIntlRegular';
-    src: url(../FONTS/SuisseIntlRegular.otf);
+    src: url(../fonts/SuisseIntlRegular.otf);
 }
 *{
     box-sizing: border-box;
